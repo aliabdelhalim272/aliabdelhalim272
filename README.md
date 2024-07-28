@@ -8,7 +8,22 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student.;I+have+experience+in+C%2B%2B%2C+C%23%2C+and+Object-Oriented+Design+and+Analysis.;I+have+experience+in+data+structures+and+object-oriented+programming.;I+am+also+learning+full+stack+development.;I+have+experience+in+HTML%2C+CSS%2C+JS%2C+and+ReactJS.;I+am+studying+WordPress.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student." alt="I am a computer engineering student.">
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33FF57&center=true&vCenter=true&width=1000&height=80&lines=I+have+experience+in+C%2B%2B%2C+C%23%2C+and+Object-Oriented+Design+and+Analysis." alt="I have experience in C++, C#, and Object-Oriented Design and Analysis.">
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3357FF&center=true&vCenter=true&width=1000&height=80&lines=I+have+experience+in+data+structures+and+object-oriented+programming." alt="I have experience in data structures and object-oriented programming.">
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF33A1&center=true&vCenter=true&width=1000&height=80&lines=I+am+also+learning+full+stack+development." alt="I am also learning full stack development.">
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+have+experience+in+HTML%2C+CSS%2C+JS%2C+and+ReactJS." alt="I have experience in HTML, CSS, JS, and ReactJS.">
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33FF57&center=true&vCenter=true&width=1000&height=80&lines=I+am+studying+WordPress." alt="I am studying WordPress.">
   </p>
 </div>
 
@@ -28,5 +43,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
-
-
