@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=000000&center=true&vCenter=true&lines=ALY+ABDELHALIM" alt="ALY ABDELHALIM">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=9000&color=000000&center=true&vCenter=true&lines=ALY+ABDELHALIM" alt="ALY ABDELHALIM">
   </h1>
 </div>
 
