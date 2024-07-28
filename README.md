@@ -6,29 +6,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student.;I+have+experience+in+C%2B%2B%2C+C%23%2C+and+Object-Oriented+Design+and+Analysis.;I+have+experience+in+data+structures+and+object-oriented+programming.;I+am+also+learning+full+stack+development.;I+have+experience+in+HTML%2C+CSS%2C+JS%2C+and+ReactJS.;I+am+studying+WordPress.">
-  </p>
-</div>
-
-## Connect with Me
-
-<div align="center">
-  <a href="https://t.me/alyabdelhalim" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://wa.me/905527797598?text=Hello,%20I%20need%20your%20help%20in..." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.linkedin.com/in/aly-abdelhalim-5132a221b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/aliabdelhalim27/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
-
 <style>
   @keyframes colorChange {
     0% { color: #000000; }
@@ -53,11 +30,27 @@
     75% { transform: translateX(10px) translateY(10px); }
     100% { transform: translateX(0) translateY(0); }
   }
-</style>
 
-<div align="center">
-  <h1 class="moving-text color-changing-text">ALY ABDELHALIM</h1>
-</div>
+  .icon-container {
+    display: inline-block;
+    margin: 0 10px;
+    border-radius: 50%;
+    overflow: hidden;
+    animation: iconMove 4s infinite alternate;
+  }
+
+  .icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+
+  @keyframes iconMove {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0); }
+  }
+</style>
 
 <div align="center">
   <p class="moving-text color-changing-text">
@@ -68,16 +61,16 @@
 ## Connect with Me
 
 <div align="center">
-  <a href="https://t.me/alyabdelhalim" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://t.me/alyabdelhalim" target="_blank" class="icon-container">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="icon">
   </a>
-  <a href="https://wa.me/905527797598?text=Hello,%20I%20need%20your%20help%20in..." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://wa.me/905527797598?text=Hello,%20I%20need%20your%20help%20in..." target="_blank" class="icon-container">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" class="icon">
   </a>
-  <a href="https://www.linkedin.com/in/aly-abdelhalim-5132a221b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/aly-abdelhalim-5132a221b/" target="_blank" class="icon-container">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="icon">
   </a>
-  <a href="https://www.instagram.com/aliabdelhalim27/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/aliabdelhalim27/" target="_blank" class="icon-container">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="icon">
   </a>
 </div>
