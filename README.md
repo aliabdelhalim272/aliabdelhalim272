@@ -2,28 +2,13 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=3000&pause=1000&color=1D3557&center=true&vCenter=true&width=800&height=80&lines=ALY+ABDELHALIM" alt="ALY ABDELHALIM">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&duration=3000&pause=1000&color=1D3557&center=true&vCenter=true&width=800&height=80&lines=ALY+ABDELHALIM" alt="ALY ABDELHALIM">
   </h1>
 </div>
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student." alt="I am a computer engineering student.">
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33FF57&center=true&vCenter=true&width=1000&height=80&lines=I+have+experience+in+C%2B%2B+and+C%23." alt="I have experience in C++ and C#.">
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3357FF&center=true&vCenter=true&width=1000&height=80&lines=Experience+in+OOP+Design+and+Analysis." alt="Experience in OOP Design and Analysis.">
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF33A1&center=true&vCenter=true&width=1000&height=80&lines=Learning+full+stack+development." alt="Learning full stack development.">
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Experience+in+HTML%2C+CSS%2C+JS%2C+ReactJS." alt="Experience in HTML, CSS, JS, ReactJS.">
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33FF57&center=true&vCenter=true&width=1000&height=80&lines=Studying+WordPress." alt="Studying WordPress.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student.;I+have+experience+in+C%2B%2B+and+C%23.;Experience+in+OOP+Design+and+Analysis.;Learning+full+stack+development.;Experience+in+HTML%2C+CSS%2C+JS%2C+ReactJS.;Studying+WordPress." alt="Profile Information">
   </p>
 </div>
 
