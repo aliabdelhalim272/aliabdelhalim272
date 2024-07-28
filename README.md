@@ -8,7 +8,7 @@
 
 <div align="center">
   <p style="background-color:#f0f0f0;padding:10px;border-radius:5px;display:inline-block;animation:move 5s infinite alternate ease-in-out, colorChange 10s infinite alternate ease-in-out;">
-    I am a computer engineering student studying C++. I have experience in data structures and object-oriented programming. I am also learning full stack development.
+    I am a computer engineering student in Duzce university,Im studying C++. I have experience in data structures and object-oriented programming. I am also learning full stack development.
   </p>
 </div>
 
@@ -17,6 +17,7 @@
 - [Telegram](https://t.me/alyabdelhalim)
 - [WhatsApp](https://wa.me/905527797598?text=Hello,%20I%20need%20your%20help%20in...)
 
+<!-- HTML and CSS for moving name and description with background and color change -->
 <style>
 @keyframes move {
   0% { transform: translateX(0) translateY(0) rotate(0deg); }
@@ -34,3 +35,7 @@
   100% { color: #000000; background-color: #f0f0f0; }
 }
 </style>
+<div style="display:none;">
+  <div style="animation:move 5s infinite alternate ease-in-out;"></div>
+  <div style="animation:colorChange 10s infinite alternate ease-in-out;"></div>
+</div>
