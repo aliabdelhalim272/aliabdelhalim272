@@ -13,7 +13,7 @@
 ## My Projects
 
 <div align="center">
-  <img src="https://i.imgur.com/2aX2CTe.gif" alt="snake gif" />
+  <img src="MyGitHubProfile/377355-animals-snake-reptiles-cobra.jpg" alt="snake gif" />
 </div>
 
 <ul>
