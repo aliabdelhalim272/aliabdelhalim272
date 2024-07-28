@@ -11,19 +11,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student." alt="I am a computer engineering student.">
   </p>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33FF57&center=true&vCenter=true&width=1000&height=80&lines=I+have+experience+in+C%2B%2B%2C+C%23%2C+and+Object-Oriented+Design+and+Analysis." alt="I have experience in C++, C#, and Object-Oriented Design and Analysis.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33FF57&center=true&vCenter=true&width=1000&height=80&lines=I+have+experience+in+C%2B%2B+and+C%23." alt="I have experience in C++ and C#.">
   </p>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3357FF&center=true&vCenter=true&width=1000&height=80&lines=I+have+experience+in+data+structures+and+object-oriented+programming." alt="I have experience in data structures and object-oriented programming.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3357FF&center=true&vCenter=true&width=1000&height=80&lines=Experience+in+OOP+Design+and+Analysis." alt="Experience in OOP Design and Analysis.">
   </p>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF33A1&center=true&vCenter=true&width=1000&height=80&lines=I+am+also+learning+full+stack+development." alt="I am also learning full stack development.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF33A1&center=true&vCenter=true&width=1000&height=80&lines=Learning+full+stack+development." alt="Learning full stack development.">
   </p>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+have+experience+in+HTML%2C+CSS%2C+JS%2C+and+ReactJS." alt="I have experience in HTML, CSS, JS, and ReactJS.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Experience+in+HTML%2C+CSS%2C+JS%2C+ReactJS." alt="Experience in HTML, CSS, JS, ReactJS.">
   </p>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33FF57&center=true&vCenter=true&width=1000&height=80&lines=I+am+studying+WordPress." alt="I am studying WordPress.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33FF57&center=true&vCenter=true&width=1000&height=80&lines=Studying+WordPress." alt="Studying WordPress.">
   </p>
 </div>
 
