@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <p style="background-color:#f0f0f0;padding:10px;border-radius:5px;display:inline-block;">
-    I am a computer engineering student in Duzce University ,Im studying C++. I have experience in data structures and object-oriented programming. I am also learning full stack development.
+  <p>
+    I am a computer engineering in Duzce University ,Im student studying C++. I have experience in data structures and object-oriented programming. I am also learning full stack development.
   </p>
 </div>
 
