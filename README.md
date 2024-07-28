@@ -7,18 +7,13 @@
 </div>
 
 <div align="center">
-  <p id="description">I am a computer engineering student in Düzce University ,Im studying C++. I have experience in data structures and object-oriented programming. I am also learning full stack development.</p>
+  <p id="description">I am a computer engineering student in Duzce University ,Imstudying C++. I have experience in data structures and object-oriented programming. I am also learning full stack development.</p>
 </div>
 
-## My Projects
+## Connect with Me
 
-<div align="center">
-  <img src="MyGitHubProfile/377355-animals-snake-reptiles-cobra.jpg" alt="snake gif" />
-</div>
-
-<ul>
-  <li><a href="https://github.com/AliAbdelhalim/C-projects">Project 1</a></li>
-</ul>
+- [Telegram](https://t.me/alyabdelhalim)
+- [WhatsApp](https://wa.me/905527797598?text=Hello,%20I%20need%20your%20help%20in...)
 
 <!-- HTML and CSS for moving name and description -->
 <style>
@@ -54,3 +49,4 @@
     text-decoration: underline;
   }
 </style>
+
