@@ -17,10 +17,7 @@
 </div>
 
 <ul>
-  <li><a href="https://github.com/AliAbdelhalim/project1">Project 1</a></li>
-  <li><a href="https://github.com/AliAbdelhalim/project2">Project 2</a></li>
-  <li><a href="https://github.com/AliAbdelhalim/project3">Project 3</a></li>
-  <li><a href="https://github.com/AliAbdelhalim/project4">Project 4</a></li>
+  <li><a href="https://github.com/AliAbdelhalim/C-projects">Project 1</a></li>
 </ul>
 
 <!-- HTML and CSS for moving name and description -->
