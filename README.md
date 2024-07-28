@@ -8,17 +8,60 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+I+am+a+computer+engineering+student.">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=009688&center=true&vCenter=true&width=1000&height=80&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+I+have+experience+in+C%2B%2B%2C+C%23%2C+and+Object-Oriented+Design+and+Analysis.">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFC300&center=true&vCenter=true&width=1000&height=80&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+I+have+experience+in+data+structures+and+object-oriented+programming.">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=DAF7A6&center=true&vCenter=true&width=1000&height=80&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+I+am+also+learning+full+stack+development.">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=C70039&center=true&vCenter=true&width=1000&height=80&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+I+have+experience+in+HTML%2C+CSS%2C+JS%2C+and+ReactJS.">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=581845&center=true&vCenter=true&width=1000&height=80&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+I+am+studying+WordPress.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student.;I+have+experience+in+C%2B%2B%2C+C%23%2C+and+Object-Oriented+Design+and+Analysis.;I+have+experience+in+data+structures+and+object-oriented+programming.;I+am+also+learning+full+stack+development.;I+have+experience+in+HTML%2C+CSS%2C+JS%2C+and+ReactJS.;I+am+studying+WordPress.">
+  </p>
+</div>
+
+## Connect with Me
+
+<div align="center">
+  <a href="https://t.me/alyabdelhalim" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://wa.me/905527797598?text=Hello,%20I%20need%20your%20help%20in..." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.linkedin.com/in/aly-abdelhalim-5132a221b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/aliabdelhalim27/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
+<style>
+  @keyframes colorChange {
+    0% { color: #000000; }
+    25% { color: #FF5733; }
+    50% { color: #33FF57; }
+    75% { color: #3357FF; }
+    100% { color: #FF33A1; }
+  }
+
+  .moving-text {
+    animation: move 4s infinite alternate;
+  }
+
+  .color-changing-text {
+    animation: colorChange 4s infinite;
+  }
+
+  @keyframes move {
+    0% { transform: translateX(0) translateY(0); }
+    25% { transform: translateX(10px) translateY(-10px); }
+    50% { transform: translateX(-10px) translateY(10px); }
+    75% { transform: translateX(10px) translateY(10px); }
+    100% { transform: translateX(0) translateY(0); }
+  }
+</style>
+
+<div align="center">
+  <h1 class="moving-text color-changing-text">ALY ABDELHALIM</h1>
+</div>
+
+<div align="center">
+  <p class="moving-text color-changing-text">
+    I am a computer engineering student. I have experience in C++, C#, and Object-Oriented Design and Analysis. I have experience in data structures and object-oriented programming. I am also learning full stack development. I have experience in HTML, CSS, JS, and ReactJS. I am studying WordPress.
   </p>
 </div>
 
