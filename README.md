@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <p id="description">I am a computer engineering student in Duzce University ,Imstudying C++. I have experience in data structures and object-oriented programming. I am also learning full stack development.</p>
+  <p id="description">I am a computer engineering student in Duzce universit,Im studying C++. I have experience in data structures and object-oriented programming. I am also learning full stack development.</p>
 </div>
 
 ## Connect with Me
@@ -49,4 +49,5 @@
     text-decoration: underline;
   }
 </style>
+
 
