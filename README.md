@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student.;I+have+experience+in+C%2B%2B+and+C%23.;Experience+in+OOP+Design+and+Analysis.;Learning+full+stack+development.;Experience+in+HTML%2C+CSS%2C+JS%2C+ReactJS.;I+have+experience+in+SASS.;Studying+WordPress.;I+have+experience+in+Python.;You+can+reach+me+through+the+icons+in+the+Connect+with+Me+section." alt="Profile Information">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=I+am+a+computer+engineering+student.;I+have+experience+in+C%2B%2B+and+C%23.;Experience+in+OOP+Design+and+Analysis.;Learning+full+stack+development.;Experience+in+HTML%2C+CSS%2C+JS%2C+ReactJS.;I+have+experience+in+SASS.;Studying+WordPress.;I+have+experience+in+Python." alt="Profile Information">
   </p>
 </div>
 
