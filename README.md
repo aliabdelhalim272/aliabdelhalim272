@@ -124,12 +124,7 @@
 
 ---
 
-<div align="center">
-
-## 📜 Certifications
-
-| Badge | Certificate | Issuer | Year |
-|-------|------------|--------|------|
+<div align="center-------|------------|--------|------|
 | 🔐 | **Google Cybersecurity Professional** | Google / Coursera | 2024 |
 | 🤖 | **Machine Learning Specialization** | Stanford / DeepLearning.AI | 2024 |
 | ☁️ | **AWS Cloud Practitioner** | Amazon Web Services | 2024 |
