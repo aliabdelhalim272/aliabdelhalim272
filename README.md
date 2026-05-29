@@ -20,20 +20,6 @@
 
 </div>
 
-```python
-{
-  "name"       : "Ali Abd El Halim",
-  "location"   : "Egypt",
-  "languages"  : ["Python", "JavaScript", "TypeScript", "C", "Bash", "SQL", "Assembly"],
-  "tools"      : ["Linux", "Docker", "Kubernetes", "AWS", "Git", "Vim"],
-  "interests"  : ["Networks", "Algorithms", "Neural Networks", "Cryptography", "Systems"],
-  "status"     : "always_building",
-  "uptime"     : "24/7",
-  "philosophy" : "The best code is the one nobody notices — until it saves everything."
-}
-```
-
-
 ---
 
 <div align="center">
