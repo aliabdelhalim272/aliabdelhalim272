@@ -33,6 +33,15 @@
 }
 ```
 
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-abdelhalim-1701393b3/)
+
+</div>
+
 ---
 
 <div align="center">
