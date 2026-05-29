@@ -144,14 +144,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdelhalim272&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=12" width="38%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=aliabdelhalim272&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" width="60%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdelhalim272&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="32%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aliabdelhalim272&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliabdelhalim272&theme=tokyonight&utcOffset=2" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdelhalim272&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=12" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliabdelhalim272&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffd700&area=true&hide_border=true" width="49%"/>
 
 </div>
 
