@@ -1,5 +1,13 @@
 <div align="center">
 
+[![Visit My Page](https://img.shields.io/badge/Visit_My_Page-00d4ff?style=for-the-badge)](https://aliabdelhalim272.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,60:1a1a2e,100:16213e&height=220&section=header&text=Ali%20Abd%20El%20Halim&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=aliabdelhalim272&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=750&lines=import+security%3B+import+intelligence%3B+import+scale%3B;while(alive)%3A+%7B+learn()%3B+build()%3B+break_things()%3B+%7D;0x416c69+%3D%3D+Ali;%24+whoami+--+%3E+undefined+%3A+still+compiling...;git+commit+-m+%22another+day+another+system%22;%7B+code%3A+clean%2C+systems%3A+secure%2C+models%3A+sharp+%7D" alt="Typing SVG" /></a>
